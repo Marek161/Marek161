@@ -14,10 +14,10 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marek161&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marek161&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=false&order=2" height="170" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Marek161&locale=en&mode=daily&theme=monokai&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Marek161&theme=monokai&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Marek161&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="240" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marek161&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="240" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Marek161&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="240" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Marek161&theme=nord&column=-1&row=1&margin-w=9&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -26,11 +26,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marek161/Marek161/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marek161/Marek161/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Marek161/Marek161/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/Marek161/Marek161/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -41,6 +37,10 @@
 ###
 
 <div align="center">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXV6ZGw1YWNobXA1bmtveWk1anozOGJxdGhyOGwyZzQ3OTl2Z3o1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif"  />
+</div>
+
+###
   <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXV6ZGw1YWNobXA1bmtveWk1anozOGJxdGhyOGwyZzQ3OTl2Z3o1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif"  />
 </div>
 
