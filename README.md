@@ -12,21 +12,21 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Marek161&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Marek161&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&custom_title=STATS" height="180" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Marek161&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marek161&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="180" alt="languages graph"  />
+## 🏆 GitHub Trophies
   <img src="https://github-profile-trophy.vercel.app?username=Marek161&theme=nord&column=-1&row=1&margin-w=9&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+---
 
 ###
 
 <h1 align="center"></h1>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Marek161/Marek161/output/snake.svg" alt="Snake animation" />
 
 ###
 
